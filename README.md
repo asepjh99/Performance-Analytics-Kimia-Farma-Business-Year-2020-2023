@@ -2,7 +2,8 @@
 
 - Full Video Presentasi [Click Here](https://drive.google.com/drive/folders/1PvGQIsywRBnoAEW6LYToB0m2XPwhYz3s?usp=drive_link)
 - Slide Power Point [Click Here](https://drive.google.com/drive/folders/1BirdTLinveBDSfY7Sh-vZ9EMTH5TyGFv?usp=sharing)
-- Linked in Profile [Click Here](https://www.linkedin.com/in/asepkhoerudin)
+- LinkedIn Profile [Click Here](https://www.linkedin.com/in/asepkhoerudin)
+- Dataset [Click Here](https://drive.google.com/drive/folders/1ZlgEETZhbCI-GAPtxULntILWeua9K40P?usp=sharing)
 
 ## Latar Belakang
 Sebagai bagian dari Project Based-Intership Big Data Analytics di Kimia Farma, ditugaskan untuk menganalisis kinerja bisnis perusahaan dari tahun 2020 hingga 2023. Tujuannya adalah untuk mendapatkan pemahaman yang lebih mendalam mengenai tren penjualan, profitabilitas, dan kinerja cabang-cabang Kimia Farma. Informasi ini akan sangat berharga bagi perusahaan dalam mengambil keputusan bisnis yang lebih baik di masa depan.
