@@ -2,7 +2,7 @@
 
 - Full Video Presentasi [Click Here](https://drive.google.com/drive/folders/1PvGQIsywRBnoAEW6LYToB0m2XPwhYz3s?usp=drive_link)
 - Slide Power Point [Click Here](https://drive.google.com/drive/folders/1BirdTLinveBDSfY7Sh-vZ9EMTH5TyGFv?usp=sharing)
-- Linked in Profile [Click Here](https://linked.in/in/asepkhoerudin)
+- Linked in Profile [Click Here](https://linked.in/in/asepkhoerudin/)
 
 ## Latar Belakang
 Sebagai bagian dari Project Based-Intership Big Data Analytics di Kimia Farma, ditugaskan untuk menganalisis kinerja bisnis perusahaan dari tahun 2020 hingga 2023. Tujuannya adalah untuk mendapatkan pemahaman yang lebih mendalam mengenai tren penjualan, profitabilitas, dan kinerja cabang-cabang Kimia Farma. Informasi ini akan sangat berharga bagi perusahaan dalam mengambil keputusan bisnis yang lebih baik di masa depan.
@@ -28,10 +28,10 @@ Sebagai bagian dari Project Based-Intership Big Data Analytics di Kimia Farma, d
 - actual_price : harga obat,
 - discount_percentage : Persentase diskon yang diberikan pada obat,
 - persentase_gross_laba : Persentase laba yang seharusnya diterima dari obat dengan ketentuan berikut:
-  Harga <= Rp 50.000 -> laba 10%
-  Harga > Rp 50.000 - 100.000 -> laba 15%
-  Harga > Rp 100.000 - 300.000 -> laba 20
-  Harga > Rp 300.000 - 500.000 -> laba 25%
+  Harga <= Rp 50.000 -> laba 10%, 
+  Harga > Rp 50.000 - 100.000 -> laba 15%, 
+  Harga > Rp 100.000 - 300.000 -> laba 20, 
+  Harga > Rp 300.000 - 500.000 -> laba 25%, 
   Harga > Rp 500.000 -> laba 30%,
 - nett_sales : harga setelah diskon
 - nett_profit : keuntungan yang diperoleh Kimia Farma
